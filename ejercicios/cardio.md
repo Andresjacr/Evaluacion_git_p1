@@ -5,3 +5,5 @@ Descripción: Ejercicios que aumentan la frecuencia cardíaca y el uso de oxíge
 Beneficios: Mejora la salud cardiovascular, quema calorías y aumenta la resistencia.
 
 Instrucciones: Mantén una intensidad donde puedas hablar pero te cueste mantener una conversación larga.
+
+Consejos: Empieza con 20-30 minutos y aumenta la intensidad progresivamente.
