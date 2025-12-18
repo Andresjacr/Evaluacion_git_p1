@@ -1,3 +1,5 @@
 #pilates
 
 Descripción: Sistema de entrenamiento centrado en el control muscular, la respiración y la fuerza del core
+
+Beneficios: Fortalece el abdomen, mejora la alineación de la columna y tonifica.
