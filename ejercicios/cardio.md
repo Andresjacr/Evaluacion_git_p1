@@ -7,3 +7,5 @@ Beneficios: Mejora la salud cardiovascular, quema calorías y aumenta la resiste
 Instrucciones: Mantén una intensidad donde puedas hablar pero te cueste mantener una conversación larga.
 
 Consejos: Empieza con 20-30 minutos y aumenta la intensidad progresivamente.
+
+Precauciones: Usa calzado con buena amortiguación para proteger las articulaciones.
